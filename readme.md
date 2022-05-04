@@ -50,8 +50,7 @@
 
 ## Visualize o Projeto Hospedado:
 
-- <a href="#">Git-Pages</a> 
-- <a href="#">Vercel</a> 
+- <a href="https://barbearia-alura-2021.vercel.app/contato.html">Barbearia Alura Kelvin - 2021</a> 
 
 ## Faça Networking comigo:
 -  <a href="https://www.linkedin.com/in/kelvinreis-adm/">LINKEDIN</a> 
